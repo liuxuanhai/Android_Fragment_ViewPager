@@ -1,3 +1,3 @@
 # ViewPager
 
-ViewPager + TabLayout + Fragment
+ViewPager + TabLayout + Fragment（禁止预加载）
