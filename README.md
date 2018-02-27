@@ -1,4 +1,7 @@
 # ViewPager + TabLayout + Fragment（禁止预加载）
+在 ViewPager 和 Fragment 配合使用的时候，ViewPager 会使用预加载机制，使得我们在没有切换到到对应页面时，就已经加载好了，这是个非常不好的用户体验。所以所谓的懒加载就诞生了。
+
+关键字： setUserVisibleHint
 
 # Binaries
 
