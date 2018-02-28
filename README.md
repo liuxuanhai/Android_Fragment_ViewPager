@@ -3,6 +3,9 @@
 
 关键字： setUserVisibleHint
 
+# 示例图
+![image](https://github.com/cnwutianhao/ViewPager/blob/master/screenshots/%E7%A4%BA%E4%BE%8B%E5%9B%BE.gif)
+
 # Binaries
 
 ```groovy
